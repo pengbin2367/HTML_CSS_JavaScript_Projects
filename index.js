@@ -2,7 +2,8 @@ const projects = [
     "001_ExpandingCards",
     "002_ProgressSteps",
     "003_RotatingNavigationMenu",
-    "004_HiddenSearchWidget"
+    "004_HiddenSearchWidget",
+    "005_BlurryLoading"
 ];
 
 const penList = document.getElementById("penList");
