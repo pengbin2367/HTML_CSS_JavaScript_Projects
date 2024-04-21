@@ -3,7 +3,8 @@ const projects = [
     "002_ProgressSteps",
     "003_RotatingNavigationMenu",
     "004_HiddenSearchWidget",
-    "005_BlurryLoading"
+    "005_BlurryLoading",
+    "006_ScrollAnimation"
 ];
 
 const penList = document.getElementById("penList");
