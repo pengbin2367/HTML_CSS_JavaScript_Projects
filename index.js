@@ -1,6 +1,7 @@
 const projects = [
     "001_ExpandingCards",
-    "002_ProgressSteps"
+    "002_ProgressSteps",
+    "003_RotatingNavigationMenu"
 ];
 
 const penList = document.getElementById("penList");
