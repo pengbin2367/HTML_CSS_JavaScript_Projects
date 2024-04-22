@@ -4,7 +4,8 @@ const projects = [
     "003_RotatingNavigationMenu",
     "004_HiddenSearchWidget",
     "005_BlurryLoading",
-    "006_ScrollAnimation"
+    "006_ScrollAnimation",
+    "007_SplitLandingPage"
 ];
 
 const penList = document.getElementById("penList");
