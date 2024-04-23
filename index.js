@@ -7,7 +7,8 @@ const projects = [
     "006_ScrollAnimation",
     "007_SplitLandingPage",
     "008_FormWaveAnimation",
-    "009_SoundBoard"
+    "009_SoundBoard",
+    "010_FetchRandomDadJoke"
 ];
 
 const penList = document.getElementById("penList");
