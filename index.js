@@ -5,7 +5,8 @@ const projects = [
     "004_HiddenSearchWidget",
     "005_BlurryLoading",
     "006_ScrollAnimation",
-    "007_SplitLandingPage"
+    "007_SplitLandingPage",
+    "008_FormWaveAnimation"
 ];
 
 const penList = document.getElementById("penList");
