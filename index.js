@@ -6,7 +6,8 @@ const projects = [
     "005_BlurryLoading",
     "006_ScrollAnimation",
     "007_SplitLandingPage",
-    "008_FormWaveAnimation"
+    "008_FormWaveAnimation",
+    "009_SoundBoard"
 ];
 
 const penList = document.getElementById("penList");

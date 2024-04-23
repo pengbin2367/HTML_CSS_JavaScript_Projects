@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  box-shadow: 1px 2px 10px 0 rgba(0, 0, 0, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin: 0;
+}
+body .container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #a164df;
+}
+body .container .btn {
+  background-color: rebeccapurple;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  margin: 1rem;
+  padding: 1.5rem 3rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+body .container .btn:hover {
+  opacity: 0.9;
+}
+body .container .btn:focus {
+  outline: none;
+}
+/*# sourceMappingURL=index.css.map */
