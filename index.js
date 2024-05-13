@@ -9,7 +9,8 @@ const projects = [
     "008_FormWaveAnimation",
     "009_SoundBoard",
     "010_FetchRandomDadJoke",
-    "100_FontDraw"
+    "100_FontDraw",
+    "101_ReactiveNav"
 ];
 
 const penList = document.getElementById("penList");
