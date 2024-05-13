@@ -8,7 +8,8 @@ const projects = [
     "007_SplitLandingPage",
     "008_FormWaveAnimation",
     "009_SoundBoard",
-    "010_FetchRandomDadJoke"
+    "010_FetchRandomDadJoke",
+    "100_FontDraw"
 ];
 
 const penList = document.getElementById("penList");
