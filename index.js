@@ -10,7 +10,8 @@ const projects = [
     "009_SoundBoard",
     "010_FetchRandomDadJoke",
     "100_FontDraw",
-    "101_ReactiveNav"
+    "101_ReactiveNav",
+    "102_PersonalIntrl"
 ];
 
 const penList = document.getElementById("penList");
